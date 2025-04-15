@@ -1,7 +1,0 @@
-mountpoints:
-  /:
-    url: https://content.da.live/sirugh/tbp/
-    type: markup
-
-folders:
-  /products/: /products/default
